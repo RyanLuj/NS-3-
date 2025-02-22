@@ -57,6 +57,20 @@ $ make
 ```
 ./NetAnim
 ```
+**#NS-3 可視化工具 NetAnim Installation**  
+![Image](https://github.com/user-attachments/assets/da5df35d-7769-4943-8133-c7a740300aea)  
+**#NS-3 Example**  
+● 將 ns-3.35/examples/tutorial/first.cc 檔案複製至 ns-3.35/scratch 資料夾  
+● build this example  
+```
+$ cd && cd ns-allinone-3.35/ns-3.35/
+```
+```
+$ ./waf –run first
+```
+![Image](https://github.com/user-attachments/assets/85e40f5f-c90a-4090-9b05-36e623f84db7)
+
+
 
 
 
