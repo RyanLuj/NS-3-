@@ -76,7 +76,7 @@ $ ./waf –run first
 **#NS-3 Example**  
 ![Image](https://github.com/user-attachments/assets/88263c7f-aade-4de6-a8af-eb9e8bfdcc8d)  
 **#NetAnim Example**  
-● 在指定位置增加 NetAnim 程式碼，再重新 build 一次  
+● 增加第22,77行程式碼，再重新 build 一次  
 ![Image](https://github.com/user-attachments/assets/3678f562-1fc1-4b78-a9d0-de19f70a1812)  
 ![Image](https://github.com/user-attachments/assets/12384e0e-0e5c-4764-aa31-0ad21b9f7f86)  
 **#NetAnim Example**  
