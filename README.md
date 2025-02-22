@@ -68,7 +68,10 @@ $ cd && cd ns-allinone-3.35/ns-3.35/
 ```
 $ ./waf –run first
 ```
-![Image](https://github.com/user-attachments/assets/85e40f5f-c90a-4090-9b05-36e623f84db7)
+![Image](https://github.com/user-attachments/assets/effa162d-01d1-4cda-942d-18fd4707d602) 
+**#NS-3 Example**  
+![Image](https://github.com/user-attachments/assets/7c59bd91-0e3a-4a52-b93d-1006f19fadfb)
+
 
 
 
