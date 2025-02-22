@@ -68,10 +68,27 @@ $ cd && cd ns-allinone-3.35/ns-3.35/
 ```
 $ ./waf –run first
 ```
-![Image](https://github.com/user-attachments/assets/effa162d-01d1-4cda-942d-18fd4707d602) 
+![Image](https://github.com/user-attachments/assets/effa162d-01d1-4cda-942d-18fd4707d602)   
 **#NS-3 Example**  
-![Image](https://github.com/user-attachments/assets/7c59bd91-0e3a-4a52-b93d-1006f19fadfb)
-
+![Image](https://github.com/user-attachments/assets/c2a1b3d8-f9d6-4a12-bb15-c7b3a74b111c)  
+**#NS-3 Example**  
+![Image](https://github.com/user-attachments/assets/a5c5c1cd-b3ea-49f8-bd5a-2f25a8c2f013)  
+**#NS-3 Example**  
+![Image](https://github.com/user-attachments/assets/88263c7f-aade-4de6-a8af-eb9e8bfdcc8d)  
+**#NetAnim Example**  
+● 在指定位置增加 NetAnim 程式碼，再重新 build 一次  
+![Image](https://github.com/user-attachments/assets/3678f562-1fc1-4b78-a9d0-de19f70a1812)  
+![Image](https://github.com/user-attachments/assets/12384e0e-0e5c-4764-aa31-0ad21b9f7f86)  
+**#NetAnim Example**  
+● first.xml檔案會生成在ns-3.35資料夾  
+●開啟Execute NetAnim
+```
+./NetAnim
+```
+● 載入 first.xml 檔
+**#NetAnim Example**
+![Image](https://github.com/user-attachments/assets/f9f4124b-0c3a-4af4-88c6-16be8b14d3e6)
+![Image](https://github.com/user-attachments/assets/99494a2e-a76e-4498-a984-e3b62fd84369)
 
 
 
