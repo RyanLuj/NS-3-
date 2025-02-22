@@ -3,7 +3,7 @@
 ● ns (network simulator) 包括 ns-1、ns-2 和 ns-3，是一系列離散事件網絡模擬器， 主要應用於研
 究和教學。  
 ● ns-3 是一個 open source 的研究用網路模擬工具。  
-
+___
 **#NS-3 Installation Part1**  
 ● 安裝必要套件  
 ```
@@ -17,6 +17,7 @@ $ cd && wget -c https://www.nsnam.org/releases/ns-allinone-3.35.tar.bz2
 ```
 $ tar -xvjf ns-allinone-3.35.tar.bz2
 ```
+___
 **#NS-3 Installation Part2**  
 ● 更改路徑至目標資料夾  
 ```
@@ -34,8 +35,10 @@ $ ./waf
 ```
 $ ./waf --run hello-simulator
 ```
+___
 **#NS-3 Installation Part2**  
 ![Image](https://github.com/user-attachments/assets/ecb42d5b-e78d-4f98-9d04-a78dfdfbc15a)
+___
 
 **#NS-3 可視化工具 NetAnim Installation**  
 ● 更改路徑至目標資料夾  
@@ -55,8 +58,9 @@ $ make
 ```  
 ● Execute NetAnim  
 ```
-./NetAnim
+$./NetAnim
 ```
+___
 **#NS-3 可視化工具 NetAnim Installation**  
 ![Image](https://github.com/user-attachments/assets/da5df35d-7769-4943-8133-c7a740300aea)  
 **#NS-3 Example**  
